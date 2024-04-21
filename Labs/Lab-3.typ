@@ -19,10 +19,10 @@
 
     /*
     (
-      name: "Student 1",
-      department: [Dept. of EE],
+      name: "ahmed kammoun",
+      department: [elni2],
       organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
+      profile: "Ahmedkamoun5",
     ),
     (
       name: "Student 2",
