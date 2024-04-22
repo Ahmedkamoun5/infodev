@@ -25,14 +25,8 @@
       profile: "Ahmedkamoun5",
     ),
     (
-      name: "Student 2",
-      department: [Dept. of EE],
-      organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
-    ),
-    (
-      name: "Student 3",
-      department: [Dept. of EE],
+      name: "mouhamed ali mhatli",
+      department: [elni2],
       organization: [ISET Bizerte --- Tunisia],
       profile: "abc",
     )
